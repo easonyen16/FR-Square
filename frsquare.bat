@@ -28,4 +28,5 @@ set /a cnt=%cnt%+1
 if %cnt% lss %Camera%+1 goto loop
 del audio.ts
 del 128000.ts
+del sed*
 pause.
