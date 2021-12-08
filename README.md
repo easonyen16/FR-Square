@@ -9,7 +9,7 @@
 python get_fr_square.py
 ```
 2. 獲得 `output.txt` 
-![](https://s2.loli.net/2021/12/08/jYR8MPTvhqmzek1.png)
+![](https://upload.cc/i1/2021/12/08/khGPLC.png)
 3. 以最新一集作範例
   * `「イノゲーム！ポーカーフェイスなのは大園？藤吉？武元？松田？」`為影片名稱
   * `24401` 為影片序號
